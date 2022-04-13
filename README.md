@@ -10,8 +10,6 @@
 		<li>⚖️ Graduado em Direito pela Universidade Fumec (Belo Horizonte, MG).</li>
 		<li>⚖️ Especialista em Direito do Trabalho pela Faculdade IDC (Porto Alegre, RS).</li>
 		<li>⚖️ Especialista em Direito Público pela Faculdade Unileya (Brasília, DF).</li>
-		<li>⚖️ Atualização em Direito do Trabalho pela Faculdade IDC (Porto Alegre, RS).</li>
-		<li>⚖️ Atualização em Direito Civil pela Faculdade IDC (Porto Alegre, RS).</li>
 	</ol>
   
 <div>
