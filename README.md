@@ -1,6 +1,7 @@
 ## Olá visitante 🖖
 
-- 🔭 Wagner Souza de Paula, comunicativo, proativo, organizado. Graduando em Análise e Desenvolvimento de Sistemas. Formado em direito. Lidera diretamente uma equipe composta atualmente por 7 colaboradores e assessora um órgão de uma associação de serventias extrajudiciais composta por outros 3 colaboradores (CDT-Central de Distribuição de Títulos). Também presta assessoria jurídica registral ao IRTDPJ-RS (Instituto de Registro de Títulos e Documentos e Registro Civil de Pessoas Jurídicas do Rio Grande do Sul), composto por 84 associados titulares e interinos de serventias. Aprovado no exame da OAB, optou por cancelar a inscrição em razão da incompatibilidade da função que exerce desde 2008. No tempo livre gosta de games, livros, seriados, viajar e malhar.
+- 🔭 Wagner Souza de Paula, comunicativo (soft skill adquirida nas vendas e atendimento ao público), proativo (soft kill adquirida na liderança de equipes), organizado (soft skill adquirida como advogado). Conhecimentos básicos nas linguagens de programação: Python, Javascript, Java, HTML5 e CSS.  Formado em direito. Lidera diretamente uma equipe composta atualmente por 8 colaboradores e assessora um órgão de uma associação de serventias extrajudiciais composta por outros 3 colaboradores (CDT-Central de Distribuição de Títulos). Amante da tecnologia, retomou em 2020 os estudos na área para agregar novos conhecimentos. Como o estudo se tornou prazeroso pretende se mudar para a área de TI definitivamente. No tempo livre gosta de games, livros, seriados, viajar.
+
 
 ##
 
